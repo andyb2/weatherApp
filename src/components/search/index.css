@@ -1,0 +1,24 @@
+.container {
+  border: 1px solid black;
+  height: 100%;
+  width: 100%;
+}
+.test {
+  /* display: flex; */
+  text-align: center;
+  justify-content: center;
+  border: 1px solid red;
+}
+.searchBar {
+  width: 20rem;
+  border-radius: 5px 5px 5px 5px;
+}
+.dropDownMenu {
+  position: absolute;
+  border: 1px solid rgb(219, 219, 219);
+  width: 20.3rem;
+  cursor: pointer;
+}
+.autoFillSearch {
+  /* text-align: center; */
+}
