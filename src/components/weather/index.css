@@ -1,5 +1,7 @@
 .weatherBox {
+  /* display: flex; */
+  position: absolute;
   text-align: center;
   justify-content: center;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
