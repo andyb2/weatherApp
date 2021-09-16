@@ -4,21 +4,24 @@
   width: 100%;
 }
 .test {
-  /* display: flex; */
+  display: flex;
   text-align: center;
   justify-content: center;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .searchBar {
   width: 20rem;
   border-radius: 5px 5px 5px 5px;
+  background-color: white;
 }
 .dropDownMenu {
   position: absolute;
   border: 1px solid rgb(219, 219, 219);
+  background-color: white;
   width: 20.3rem;
   cursor: pointer;
+  z-index: 100;
 }
-.autoFillSearch {
+/* .autoFillSearch {
   /* text-align: center; */
-}
+/* }  */
